@@ -1,7 +1,7 @@
 # Terraform EKS + GHCR
 Terraform IaC Solution to Provision an AWS EKS Cluster with GitHub Container Registry.
 
-This setup would serve to establish a container orchestration platform for Wayne-Yokohama Equity Partners (WYEP).
+This setup would serve to establish a container orchestration platform.
 
 A cluster-specific VPC ensures isolation from other resources of the cloud network.
 
